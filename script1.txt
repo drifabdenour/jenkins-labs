@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "this is en example"
 echo " that is running in build step"
-echo "this is param $passed"
+echo "this is param $passsed"
 num=$(($first + $second))
 echo "$num"
 echo "beeennnaannnaannnnna"
